@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shadoworbs
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward for collaborators who would like to help me in my lonely journey.
 - 📫 How to reach me saieedadam101@gmail.com
 
 <!---
